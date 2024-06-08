@@ -1,6 +1,6 @@
 # fmartinou hass.io add-ons repository
 
-Fmartinou hass.io add-ons repository.
+Baschte hass.io add-ons repository.
 
 ![](https://github.com/fmartinou/tydom2mqtt/raw/master/docs/tydom2mqtt_logo_250.png)
 
